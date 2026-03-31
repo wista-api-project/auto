@@ -10,6 +10,7 @@ https://inv.riverside.rocks
 https://inv.in.projectsegfau.lt
 https://invidious.snopyta.org
 https://invidious.io.lol
+https://invidious.privacyredirect.com
 https://invidious.site
 https://invidious.xyz
 https://invidious.weblibre.org
