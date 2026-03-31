@@ -1,4 +1,10 @@
 # License
+This project is licensed under the Wista API License V1.
+Commercial use is strictly prohibited.
+
+![License](https://img.shields.io/badge/License-Wista%20API%20License%20V1-blue)
+![Non-Commercial](https://img.shields.io/badge/Use-Non--Commercial-red)
+![Source Required](https://img.shields.io/badge/Source-Required-brightgreen)
 
 ## Wista Api Lisence V1
 
