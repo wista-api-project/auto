@@ -1,3 +1,4 @@
+https://iv.melmac.space
 https://iv.ggtyler.dev
 https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
@@ -14,7 +15,6 @@ https://invidious.snopyta.org
 https://invidious.io.lol
 https://invidious.privacyredirect.com
 https://invidious.site
-https://invidious.xyz
 https://invidious.weblibre.org
 https://invidious.grimneko.de
 https://invidious.qwik.space
