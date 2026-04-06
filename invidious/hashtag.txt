@@ -1,9 +1,7 @@
-https://iv.melmac.space
 https://iv.ggtyler.dev
 https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
 https://iv.ok0.org
-https://iv.catgirl.cloud
 https://inv.nadeko.net
 https://inv1.nadeko.net
 https://inv2.nadeko.net
@@ -34,3 +32,4 @@ https://invidious.citizen4.eu
 https://invidious.epicsite.xyz
 https://invidious.ethibox.fr
 https://invidious.f5.si
+https://invidious.nikkosphere.com
