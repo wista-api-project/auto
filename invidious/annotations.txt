@@ -2,8 +2,7 @@ https://iv.ggtyler.dev
 https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
 https://iv.ok0.org
-https://inv8.nadeko.net
-https://inv9.nadeko.net
+https://inv5.nadeko.net
 https://inv.odyssey346.dev
 https://inv.pistasjis.net
 https://inv.riverside.rocks
@@ -23,4 +22,3 @@ https://invidious.citizen4.eu
 https://invidious.epicsite.xyz
 https://invidious.ethibox.fr
 https://invidious.f5.si
-https://invidious.nikkosphere.com
