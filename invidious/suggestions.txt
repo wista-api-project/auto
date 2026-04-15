@@ -15,7 +15,6 @@ https://invidious.snopyta.org
 https://invidious.privacyredirect.com
 https://invidious.site
 https://invidious.xyz
-https://invidious.weblibre.org
 https://invidious.grimneko.de
 https://invidious.qwik.space
 https://invidious.citizen4.eu
