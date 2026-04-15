@@ -14,7 +14,6 @@ https://inv.eu.projectsegfau.lt
 https://invidious.projectsegfau.lt
 https://invidious.snopyta.org
 https://invidious.privacyredirect.com
-https://invidious.site
 https://invidious.xyz
 https://invidious.weblibre.org
 https://invidious.grimneko.de
