@@ -1,3 +1,4 @@
+https://iv.melmac.space
 https://iv.ggtyler.dev
 https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
@@ -20,8 +21,10 @@ https://inv.riverside.rocks
 https://inv.zzls.xyz
 https://inv.in.projectsegfau.lt
 https://inv.bp.projectsegfau.lt
+https://inv.eu.projectsegfau.lt
 https://invidious.projectsegfau.lt
 https://invidious.snopyta.org
+https://invidious.privacyredirect.com
 https://invidious.site
 https://invidious.xyz
 https://invidious.weblibre.org
