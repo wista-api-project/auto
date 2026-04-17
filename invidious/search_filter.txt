@@ -5,7 +5,6 @@ https://iv.nboeck.de
 https://iv.ok0.org
 https://iv.catgirl.cloud
 https://inv.vern.cc
-https://inv.odyssey346.dev
 https://inv.pistasjis.net
 https://inv.riverside.rocks
 https://inv.in.projectsegfau.lt
@@ -20,5 +19,6 @@ https://invidious.weblibre.org
 https://invidious.grimneko.de
 https://invidious.qwik.space
 https://invidious.citizen4.eu
+https://invidious.ethibox.fr
 https://invidious.f5.si
 https://invidious.nikkosphere.com
