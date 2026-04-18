@@ -1,4 +1,5 @@
-https://iv.melmac.space
+https://iv.ggtyler.dev
+https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
 https://iv.ok0.org
 https://iv.catgirl.cloud
@@ -13,6 +14,7 @@ https://invidious.projectsegfau.lt
 https://invidious.snopyta.org
 https://invidious.privacyredirect.com
 https://invidious.site
+https://invidious.xyz
 https://invidious.weblibre.org
 https://invidious.grimneko.de
 https://invidious.qwik.space
