@@ -1,7 +1,6 @@
 https://iv.ggtyler.dev
 https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
-https://iv.ok0.org
 https://inv.nadeko.net
 https://inv1.nadeko.net
 https://inv2.nadeko.net
@@ -11,17 +10,12 @@ https://inv5.nadeko.net
 https://inv6.nadeko.net
 https://inv7.nadeko.net
 https://inv8.nadeko.net
-https://inv9.nadeko.net
 https://inv.odyssey346.dev
 https://inv.pistasjis.net
 https://inv.riverside.rocks
 https://inv.zzls.xyz
-https://inv.in.projectsegfau.lt
 https://inv.bp.projectsegfau.lt
 https://inv.eu.projectsegfau.lt
-https://invidious.projectsegfau.lt
-https://invidious.tiekoetter.com
-https://invidious.snopyta.org
 https://invidious.privacyredirect.com
 https://invidious.site
 https://invidious.xyz
