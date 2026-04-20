@@ -3,7 +3,6 @@ https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
 https://iv.ok0.org
 https://inv.odyssey346.dev
-https://inv.pistasjis.net
 https://inv.riverside.rocks
 https://inv.in.projectsegfau.lt
 https://inv.bp.projectsegfau.lt
@@ -11,7 +10,11 @@ https://inv.eu.projectsegfau.lt
 https://invidious.projectsegfau.lt
 https://invidious.snopyta.org
 https://invidious.privacyredirect.com
+https://invidious.site
+https://invidious.xyz
+https://invidious.weblibre.org
 https://invidious.grimneko.de
+https://invidious.qwik.space
 https://invidious.citizen4.eu
 https://invidious.ethibox.fr
-https://invidious.nikkosphere.com
+https://invidious.f5.si
