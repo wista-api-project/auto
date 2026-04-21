@@ -10,9 +10,7 @@ https://inv2.nadeko.net
 https://inv3.nadeko.net
 https://inv4.nadeko.net
 https://inv5.nadeko.net
-https://inv6.nadeko.net
 https://inv7.nadeko.net
-https://inv8.nadeko.net
 https://inv9.nadeko.net
 https://inv.vern.cc
 https://inv.odyssey346.dev
@@ -34,4 +32,5 @@ https://invidious.qwik.space
 https://invidious.citizen4.eu
 https://invidious.ethibox.fr
 https://invidious.f5.si
+https://invidious.nikkosphere.com
 https://invidious.nerdvpn.de
