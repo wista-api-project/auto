@@ -2,9 +2,6 @@ https://iv.ggtyler.dev
 https://nyc1.iv.ggtyler.dev
 https://iv.nboeck.de
 https://iv.ok0.org
-https://iv.catgirl.cloud
-https://inv.odyssey346.dev
-https://inv.pistasjis.net
 https://inv.riverside.rocks
 https://inv.in.projectsegfau.lt
 https://inv.bp.projectsegfau.lt
@@ -20,4 +17,3 @@ https://invidious.qwik.space
 https://invidious.citizen4.eu
 https://invidious.ethibox.fr
 https://invidious.f5.si
-https://invidious.nikkosphere.com
