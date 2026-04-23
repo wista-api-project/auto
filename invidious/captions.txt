@@ -15,6 +15,7 @@ https://inv9.nadeko.net
 https://inv.odyssey346.dev
 https://inv.riverside.rocks
 https://inv.zzls.xyz
+https://inv.in.projectsegfau.lt
 https://inv.bp.projectsegfau.lt
 https://inv.eu.projectsegfau.lt
 https://invidious.projectsegfau.lt
@@ -26,7 +27,5 @@ https://invidious.xyz
 https://invidious.weblibre.org
 https://invidious.grimneko.de
 https://invidious.qwik.space
-https://invidious.citizen4.eu
 https://invidious.ethibox.fr
 https://invidious.f5.si
-https://invidious.nikkosphere.com
