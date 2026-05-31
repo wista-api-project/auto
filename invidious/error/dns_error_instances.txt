@@ -1,4 +1,3 @@
-https://iv.datura.network
 https://iv.nowhere.moe
 https://invidious.privacydev.net
 https://invidious.fdn.fr
