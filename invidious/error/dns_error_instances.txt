@@ -1,6 +1,7 @@
 https://inv.perditum.com
 https://invidious.drgns.space
 https://invidious.privacydev.net
+https://invidious.privacyredirect.com
 https://invidious.fdn.fr
 https://invidious.garudalinux.org
 https://invidious.baczek.me
